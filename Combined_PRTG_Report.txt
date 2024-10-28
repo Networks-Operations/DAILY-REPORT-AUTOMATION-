@@ -1,0 +1,62 @@
+--- Report for PRTG Server 10.10.1.116 ---
+Africa-Hall_Switch1_PortersLodge = 10/25/2024 9:42:33 AM <span class="percent">[3 d 4 h 57 m ago]</span>
+Africa-Hall_Switch2_BlockA = 10/25/2024 9:42:02 AM <span class="percent">[3 d 4 h 58 m ago]</span>
+Africa-Hall_Switch3_BlockB = 10/25/2024 9:42:09 AM <span class="percent">[3 d 4 h 58 m ago]</span>
+Africa-Hall_Switch3_BlockB-2 = 10/25/2024 9:42:58 AM <span class="percent">[3 d 4 h 57 m ago]</span>
+ART_PARADE = 7/18/2024 6:06:50 PM <span class="percent">[101 d ago]</span>
+BABY_B_SW_HALL15_01 (10.209.98.12) = 7/19/2024 1:34:40 AM <span class="percent">[101 d ago]</span>
+COMPLEX_B_SW_HAL18_03 (10.209.98.45) = 9/10/2024 7:51:45 PM <span class="percent">[47 d ago]</span>
+Complex_PLodge (10.209.98.38) = 9/10/2024 7:51:24 PM <span class="percent">[47 d ago]</span>
+COMPLEX_R_SW_HALL18_02 (10.209.98.19) = 9/10/2024 7:51:18 PM <span class="percent">[47 d ago]</span>
+Complex_Sa (10.209.98.37) = 9/10/2024 7:52:08 PM <span class="percent">[47 d ago]</span>
+COMPLEX_Sb (10.209.98.51) = 9/10/2024 7:52:06 PM <span class="percent">[47 d ago]</span>
+Complex_T (10.209.98.13) = 9/10/2024 7:51:46 PM <span class="percent">[47 d ago]</span>
+Indece-Hall_Switch2_WestWing = 5/27/2024 5:06:54 PM <span class="percent">[153 d ago]</span>
+NEW_B_SW_HALL14_01 (10.209.98.15) = 10/1/2024 12:23:02 AM <span class="percent">[27 d ago]</span>
+NEW_B_SW_HALL14_02 (10.209.98.33) = 10/1/2024 8:18:20 AM <span class="percent">[27 d ago]</span>
+NEW_B_SW_HALL14_03 (10.209.98.43) = 9/10/2024 7:51:56 PM <span class="percent">[47 d ago]</span>
+OLD_B_SW_HAL13_03 (10.209.98.30) = 10/4/2024 1:16:28 PM <span class="percent">[24 d ago]</span>
+OLD_B_SW_HALL13_01 (10.209.98.42) = 10/4/2024 2:46:03 PM <span class="percent">[23 d ago]</span>
+OLD_B_SW_HALL13_02 (10.209.98.31) = 10/4/2024 2:46:19 PM <span class="percent">[23 d ago]</span>
+Repu-Hall_Switch4_South_SRC = 7/15/2024 7:00:16 AM <span class="percent">[105 d ago]</span>
+SPRING_SW_HALL12_01 (10.209.98.29) = 5/5/2023 3:03:48 AM <span class="percent">[542 d ago]</span>
+University-Hall_Switch4_Annex = 10/15/2024 3:31:39 PM <span class="percent">[12 d ago]</span>
+VC_GH_43 = 7/31/2024 9:53:17 AM <span class="percent">[89 d ago]</span>
+VC-Guest-House_Switch2_House3 = 7/31/2024 9:52:47 AM <span class="percent">[89 d ago]</span>
+--- Report for PRTG Server 10.10.1.117 ---
+Basic_School_JHS_Admin_Block = 8/2/2024 3:09:31 PM <span class="percent">[87 d ago]</span>
+Grad_Sch = 10/3/2024 9:54:05 AM <span class="percent">[25 d ago]</span>
+KATH_DENTAL = 2/20/2024 10:49:50 AM <span class="percent">[251 d ago]</span>
+KATH_HOSPITAL_CHILDHEALTH = 2/20/2024 10:49:54 AM <span class="percent">[251 d ago]</span>
+KATH_HOSPITAL_SURGERY = 2/20/2024 10:49:45 AM <span class="percent">[251 d ago]</span>
+KATH_MEDICINE = 1/10/2024 2:18:03 PM <span class="percent">[292 d ago]</span>
+KATH_O&G = 2/20/2024 10:49:49 AM <span class="percent">[251 d ago]</span>
+Law_Lib = 10/28/2024 3:23:56 PM <span class="percent">[17 m 33 s ago]</span>
+QAPO = 10/26/2024 11:25:31 AM <span class="percent">[2 d 4 h 15 m ago]</span>
+SMD Block B = 10/28/2024 11:09:51 AM <span class="percent">[4 h 31 m ago]</span>
+Social Science_ICT_LAB = 3/18/2024 1:34:35 PM <span class="percent">[224 d ago]</span>
+Social_Science = 8/4/2024 2:40:14 PM <span class="percent">[85 d ago]</span>
+--- Report for PRTG Server 10.10.1.118 ---
+CARRERA ICT Lab = 10/19/2024 11:33:49 AM <span class="percent">[9 d 4 h ago]</span>
+Graduate School = 10/3/2024 9:53:50 AM <span class="percent">[25 d ago]</span>
+IDL Conference Centre = 10/21/2024 3:27:39 PM <span class="percent">[7 d 0 h ago]</span>
+IDL Kwabenya Accra = 10/28/2024 11:34:25 AM <span class="percent">[4 h 7 m ago]</span>
+New SocSci NVR Outdoor = 9/12/2024 8:56:59 AM <span class="percent">[46 d ago]</span>
+Old-New Brunei 1 = 6/26/2024 5:35:33 PM <span class="percent">[123 d ago]</span>
+QAPO = 10/26/2024 11:25:09 AM <span class="percent">[2 d 4 h 16 m ago]</span>
+--- Report for PRTG Server 10.10.1.120 ---
+Accra_Kwabenya_Campus_Switch_1 = 9/15/2024 9:37:39 AM <span class="percent">[43 d ago]</span>
+Accra_Kwabenya_Campus_Switch_1 = 9/15/2024 9:38:04 AM <span class="percent">[43 d ago]</span>
+Accra_Kwabenya_Campus_Switch_2 = 9/15/2024 9:37:51 AM <span class="percent">[43 d ago]</span>
+Admin_Blk_II_Vodafone_Main_Switch = 5/13/2023 3:04:53 PM <span class="percent">[534 d ago]</span>
+Agric_Main_Vodafone_Switch_2 = 10/20/2023 6:13:49 PM <span class="percent">[373 d ago]</span>
+Animal_Science_Main_Vodafone_Switch_2 = 10/26/2024 6:12:02 PM <span class="percent">[45 h 2 m ago]</span>
+Arch_Dean_Vodafone_Main_Switch = 6/28/2024 6:03:33 AM <span class="percent">[122 d ago]</span>
+Arch_PG_Blk_Vodafone_Main_Switch = 9/6/2024 11:04:13 AM <span class="percent">[52 d ago]</span>
+Dean_of_Stds_Main_Vodafone_Switch = 6/26/2024 5:06:12 PM <span class="percent">[123 d ago]</span>
+Graduate_School_Vodafone_Main_Switch = 10/3/2024 9:28:09 AM <span class="percent">[25 d ago]</span>
+ICT_Vodafone_Main_Switch = 9/26/2024 4:15:22 PM <span class="percent">[31 d ago]</span>
+KATH_Vodafone_Sw_2_Gold = 10/19/2024 10:07:34 PM <span class="percent">[8 d 17 h ago]</span>
+Law_Vodafone_Library_Switch = 10/28/2024 2:57:55 PM <span class="percent">[17 m 5 s ago]</span>
+New_COA_Vodafone_Main_Switch = 10/8/2024 8:28:06 PM <span class="percent">[19 d ago]</span>
+No sensors with alarms found on 10.10.1.122.

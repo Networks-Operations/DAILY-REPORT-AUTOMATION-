@@ -1,0 +1,16 @@
+Critical Sites (Down for 15 days or less):
+
+Africa-Hall_Switch1_PortersLodge = 3 d 4 h 57 m ago
+Africa-Hall_Switch2_BlockA = 3 d 4 h 58 m ago
+Africa-Hall_Switch3_BlockB = 3 d 4 h 58 m ago
+Africa-Hall_Switch3_BlockB-2 = 3 d 4 h 57 m ago
+University-Hall_Switch4_Annex = 12 d ago
+Law_Lib = 17 m 33 s ago
+QAPO = 2 d 4 h 16 m ago
+SMD Block B = 4 h 31 m ago
+CARRERA ICT Lab = 9 d 4 h ago
+IDL Conference Centre = 7 d 0 h ago
+IDL Kwabenya Accra = 4 h 7 m ago
+Animal_Science_Main_Vodafone_Switch_2 = 45 h 2 m ago
+KATH_Vodafone_Sw_2_Gold = 8 d 17 h ago
+Law_Vodafone_Library_Switch = 17 m 5 s ago
