@@ -1,6 +1,6 @@
-# **PRTG Critical Sites Monitoring**
+eio# **PRTG Critical Sites Monitoring**
 
-This Python project, created for the UITS-NOID division of KNUST by Kingsley Obo Danquah, a national service personnel, automates the monitoring of PRTG (Paessler Router Traffic Grapher) servers to identify critical sites that have been down for a specified period (15 days or less). The tool fetches sensor data from multiple PRTG servers, compiles it into a report, and filters out critical devices with downtime within the threshold. This project also includes VoIP monitoring to assist in the reporting process.
+This Python project, created for the UITS-NOID division of KNUST, it automates the monitoring of PRTG (Paessler Router Traffic Grapher) servers to identify critical sites that have been down for a specified period (15 days or less). The tool fetches sensor data from multiple PRTG servers, compiles it into a report, and filters out critical devices with downtime within the threshold. This project also includes VoIP monitoring to assist in the reporting process.
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
@@ -52,7 +52,7 @@ This project provides an automated solution for monitoring PRTG servers and iden
 
 Run the script by executing:
 ```bash
-python prtg_monitoring_script.py
+python prtgdata.py
 ```
 
 The script will:
