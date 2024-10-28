@@ -4,11 +4,11 @@ from datetime import datetime
 
 # List of PRTG servers with authentication details
 prtg_servers = [
-    {"ip": "10.10.1.116", "username": "prtgadmin", "password": "Kozmik123"},
-    {"ip": "10.10.1.117", "username": "prtgadmin", "password": "Kozmik123"},
-    {"ip": "10.10.1.118", "username": "prtgadmin", "password": "Kozmik123"},
-    {"ip": "10.10.1.120", "username": "prtgadmin", "password": "Kozmik123"},
-    {"ip": "10.10.1.122", "username": "prtgadmin", "password": "Kozmik123"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_server_password"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_server_password"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_server_password"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_server_password"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_server_password"},
 ]
 
 def fetch_sensors_with_last_up(prtg_ip, username, password):
