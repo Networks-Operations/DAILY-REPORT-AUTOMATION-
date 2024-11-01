@@ -1,6 +1,6 @@
 eio# **PRTG Critical Sites Monitoring**
 
-This Python project, created for the UITS-NOID division of KNUST, it automates the monitoring of PRTG (Paessler Router Traffic Grapher) servers to identify critical sites that have been down for a specified period (15 days or less). The tool fetches sensor data from multiple PRTG servers, compiles it into a report, and filters out critical devices with downtime within the threshold. This project also includes VoIP monitoring to assist in the reporting process.
+This Python project, it automates the monitoring of PRTG (Paessler Router Traffic Grapher) servers to identify critical sites that have been down for a specified period (15 days or less). The tool fetches sensor data from multiple PRTG servers, compiles it into a report, and filters out critical devices with downtime within the threshold. This project also includes VoIP monitoring to assist in the reporting process.
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
@@ -69,7 +69,7 @@ In the script:
 Example:
 ```python
 prtg_servers = [
-    {"ip": "10.10.1.116", "username": "prtgadmin", "password": "your_password"},
+    {"ip": "your_server_ip", "username": "prtgadmin", "password": "your_password"},
     # Add other servers as needed
 ]
 ```
@@ -79,19 +79,14 @@ prtg_servers = [
 ### Combined Report (`Combined_PRTG_Report.txt`)
 ```
 --- Report for PRTG Server 10.10.1.116 ---
-Device: Africa-Hall_Switch1_PortersLodge, Last Up: 3 d 2 h 59 m ago
-Device: VoIP_Device_1, Last Up: 1 d 5 h 30 m ago
-Device: Africa-Hall_Switch2_BlockA, Last Up: 14 d 15 h 5 m ago
+swtich1: 14 d 15 h 5 m ago
 ```
 
 ### Critical Sites Report (`Critical_Sites_Report.txt`)
 ```
 Critical Sites (Down for 15 days or less):
 
-Africa-Hall_Switch1_PortersLodge = 3 d 2 h 59 m ago
-VoIP_Device_1 = 1 d 5 h 30 m ago
-Africa-Hall_Switch2_BlockA = 14 d 15 h 5 m ago
-```
+eg
 
 ## **Contributing**
 
